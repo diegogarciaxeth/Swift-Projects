@@ -16,3 +16,4 @@ struct gitHubIntegrationApp: App {
     }
 }
 var firstCommitVariable = "First Commit"
+var tryToCommitAgain = "lol"
