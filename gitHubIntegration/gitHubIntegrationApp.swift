@@ -15,3 +15,4 @@ struct gitHubIntegrationApp: App {
         }
     }
 }
+var firstCommitVariable = "First Commit"
